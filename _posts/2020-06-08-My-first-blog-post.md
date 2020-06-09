@@ -1,3 +1,7 @@
+---
+title: "UNCERTAINTY ABOUT THE FUTURE"
+date: 2020-06-08
+---
 # *This is a small step for a man but a great leap for mankind*
 Ok, now onto my first post.
 We have a new pandemic now, it's been about 6 months but it feels like it's been ages since we can't live the way we used to.
