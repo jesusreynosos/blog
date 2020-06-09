@@ -1,12 +1,14 @@
-title: My room for tought.
+title: Med + Data.
 author: Jesus DE Reynoso
 email: reynoso.jde@gmail.com 
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Jesus Reynoso's site.
+  Site for personal toughts, I write every Monday.
 
 # social links
 twitter_username: jesusreynoso_ # DO NOT include the @ character, or else the build will fail!
 github_username:  jesusreynosos # DO NOT include the @ character, or else the build will fail!
+facebook_username: Emi940
+instagram_username: jesusreynoso__
 
 show_excerpts: true # set to false to remove excerpts on the homepage
