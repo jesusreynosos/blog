@@ -1,4 +1,3 @@
-# **Starting a personal project.**
 
 ## About me.
 
